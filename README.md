@@ -105,6 +105,8 @@ It includes:
 The **Shop Collection** button takes users directly to the product section.
 
 ---
+<img width="670" height="764" alt="Screenshot 2026-09-12 132253" src="https://github.com/user-attachments/assets/7dd3aee1-2491-4605-8a15-9787698ff35d" />
+
 
 ## 🛍️ Shop Section
 
@@ -127,6 +129,8 @@ Examples of product badges include:
 - New
 
 ---
+<img width="670" height="764" alt="Screenshot 2026-09-12 132307" src="https://github.com/user-attachments/assets/548e5b3d-8e5f-4635-8a2c-d0e617575886" />
+
 
 ## 🔎 Product Filtering and Sorting
 
@@ -155,6 +159,10 @@ The interface has been prepared so that JavaScript can later be used to make the
 
 ---
 
+<img width="670" height="764" alt="Screenshot 2026-09-12 134111" src="https://github.com/user-attachments/assets/26ab71d6-5099-4406-b1b6-c48bf1f7e5b7" />
+
+
+
 # 🧴 Products
 
 The current product collection includes:
@@ -170,7 +178,8 @@ The current product collection includes:
 
 Each product has its own image and product information.
 
----
+---<img width="670" height="764" alt="Screenshot 2026-09-12 133240" src="https://github.com/user-attachments/assets/d004d317-56f5-4871-9d7d-048528148db6" />
+
 
 # 🪟 Product Detail Modal
 
@@ -223,7 +232,8 @@ Each category contains:
 - Description
 - Link to the shopping section
 
----
+---<img width="670" height="764" alt="Screenshot 2026-09-12 132421" src="https://github.com/user-attachments/assets/2ad6cf1a-3289-41d3-9ac4-c908ad06818b" />
+
 
 # 🤎 About Afya Living
 
@@ -251,7 +261,8 @@ Products selected with care.
 
 Simple self-care for everyday life.
 
----
+---<img width="670" height="764" alt="Screenshot 2026-09-12 133426" src="https://github.com/user-attachments/assets/cd3264b8-55ae-4b90-bdc3-eaf4b2d70923" />
+
 
 # 🧘 Wellness Banner
 
@@ -268,7 +279,9 @@ It includes:
 - Supporting text
 - Shop Self-Care call-to-action
 
----
+---<img width="670" height="764" alt="Screenshot 2026-09-12 133525" src="https://github.com/user-attachments/assets/6a0bca65-8e79-4351-a191-271837e6589b" />
+
+
 
 # 💬 Customer Testimonials
 
@@ -288,7 +301,8 @@ Example customers include:
 - Naomi W.
 - Joy M.
 
----
+---<img width="670" height="764" alt="Screenshot 2026-09-12 133604" src="https://github.com/user-attachments/assets/2edd41e3-38a1-4dea-beae-bc405f0c9772" />
+
 
 # 📧 Newsletter Section
 
@@ -304,7 +318,8 @@ The form includes HTML email validation through the `required` and `type="email"
 
 JavaScript can later be added to provide subscription confirmation and store subscriber information.
 
----
+---<img width="670" height="764" alt="Screenshot 2026-09-12 133752" src="https://github.com/user-attachments/assets/470a3a73-6346-4467-a12c-81ec26695c79" />
+
 
 # 📞 Contact Section
 
@@ -325,7 +340,8 @@ The section also contains a contact form with:
 
 The form is designed as a foundation for future JavaScript validation and backend integration.
 
----
+---<img width="670" height="764" alt="Screenshot 2026-09-12 133838" src="https://github.com/user-attachments/assets/873b8246-3cf2-474e-ada6-3a5350f5ac90" />
+
 
 # 🦶 Footer
 
@@ -353,7 +369,8 @@ The footer contains several useful navigation areas.
 
 The footer also includes a copyright notice and a short brand statement.
 
----
+---<img width="670" height="764" alt="Screenshot 2026-09-12 133926" src="https://github.com/user-attachments/assets/f6035bca-6776-46cd-a063-7f28797bed1b" />
+
 
 # 🎨 Design and User Experience
 
