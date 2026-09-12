@@ -484,6 +484,7 @@ button {
 
 .about-content h2 span {
     color: #7b8b62;
+    font-family: Dancing Script, sans-serif;
 }
 
 .about-content > p {
@@ -507,6 +508,7 @@ button {
 
 .about-feature > span {
     font-size: 1.7rem;
+    
 }
 
 .about-feature h3 {
